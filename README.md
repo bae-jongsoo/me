@@ -142,7 +142,7 @@
   - 시장 데이터를 스크래핑하여 LLM에게 매수/매도 판단을 위임하는 자동매매 시스템 (FastAPI)
 - [Django vs FastAPI 성능 벤치마크](https://github.com/bae-jongsoo/benchmark_apis)
   - CPU/IO/Mixed 워크로드별 동기 vs 비동기 처리 성능을 비교
-- [테트리스 게임](https://github.com/bae-jongsoo/bj-tetris)
+- [테트리스 게임](https://github.com/bae-jongsoo/bj-tetris) | [링크](https://tetris.jscraft.work)
   - AI를 활용해 개발하고 Android까지 배포한 사이드 프로젝트
 
 ---
